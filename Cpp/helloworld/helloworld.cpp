@@ -3,6 +3,6 @@ using namespace std;
 
 int main()
 {
-cout<<"Mama lui bra este curva mare";
+cout<<"hello world";
 return 0;
 }
