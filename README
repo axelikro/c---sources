@@ -1,1 +1,17 @@
 This is a small project in which we will exchange sources
+
+PLEASE READ THIS:
+
+Please use these folders to store projects in it. For example, a project that uses qt will be stored like this:
+
+qt_projects/qt_file_editor/
+
+
+The same is available for other projects, for example those that use C++
+
+Cpp/my_cpp_project
+
+
+And at last, don't forget to commit!
+
+Thanks!
